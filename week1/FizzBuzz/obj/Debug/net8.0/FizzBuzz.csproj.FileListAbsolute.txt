@@ -1,0 +1,5 @@
+C:\Users\rlous\.NET\week1\FizzBuzz\obj\Debug\net8.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlous\.NET\week1\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\rlous\.NET\week1\FizzBuzz\obj\Debug\net8.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\rlous\.NET\week1\FizzBuzz\obj\Debug\net8.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rlous\.NET\week1\FizzBuzz\obj\Debug\net8.0\FizzBuzz.sourcelink.json

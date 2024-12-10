@@ -1,0 +1,15 @@
+C:\Users\rlous\.NET\week1\HelloC#\bin\Debug\net8.0\HelloC#.exe
+C:\Users\rlous\.NET\week1\HelloC#\bin\Debug\net8.0\HelloC#.deps.json
+C:\Users\rlous\.NET\week1\HelloC#\bin\Debug\net8.0\HelloC#.runtimeconfig.json
+C:\Users\rlous\.NET\week1\HelloC#\bin\Debug\net8.0\HelloC#.dll
+C:\Users\rlous\.NET\week1\HelloC#\bin\Debug\net8.0\HelloC#.pdb
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.AssemblyInfoInputs.cache
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.AssemblyInfo.cs
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.csproj.CoreCompileInputs.cache
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.sourcelink.json
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.dll
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\refint\HelloC#.dll
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.pdb
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\HelloC#.genruntimeconfig.cache
+C:\Users\rlous\.NET\week1\HelloC#\obj\Debug\net8.0\ref\HelloC#.dll
