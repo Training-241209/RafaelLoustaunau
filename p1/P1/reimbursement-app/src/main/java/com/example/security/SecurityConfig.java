@@ -40,6 +40,7 @@ public class SecurityConfig {
                 .requestMatchers("/auth/login", "/auth/register").permitAll()
                 .requestMatchers("/auth/hello").authenticated()
                 .requestMatchers("/auth/reimbursements").authenticated()
+                .requestMatchers("/auth/reimbursements/{id}").authenticated()
             )
             .httpBasic(withDefaults()).csrf((csrf) -> csrf.disable())
             .sessionManagement((session) -> session.sessionCreationPolicy(SessionCreationPolicy.STATELESS))

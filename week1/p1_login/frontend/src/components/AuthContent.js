@@ -9,6 +9,7 @@ export default class AuthContent extends React.Component {
         this.state = {
             amount: '',
             status: '',
+            userId: '',  // Assuming userId is required for the reimbursement
             errors: {}
         };
     }
@@ -34,7 +35,7 @@ export default class AuthContent extends React.Component {
     };
 
   render() {
-    const { amount, description,errors } = this.state;
+    const { amount, description, date, userId, errors } = this.state;
     return (
         /*
         <div className="row justify-content-md-center">
