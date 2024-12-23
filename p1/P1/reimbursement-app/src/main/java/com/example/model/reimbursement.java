@@ -16,8 +16,8 @@ public class reimbursement {
     @Column(nullable = false)
     private double amount;
 
-    @Column(columnDefinition = "varchar(255) default 'pending'")
-    private String status="pending";
+    @Column(columnDefinition = "varchar(255) default 'PENDING'")
+    private String status="PENDING";
 
     @ManyToOne(cascade = CascadeType.PERSIST)
     @JoinColumn(name = "userId", nullable = false)
@@ -25,6 +25,10 @@ public class reimbursement {
 
     public reimbursement(int reimbId2, Double amount2, String description2, String status2) {
         //TODO Auto-generated constructor stub
+    }
+
+    public reimbursement (){
+        
     }
 
     // Getters and setters
